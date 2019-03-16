@@ -19,7 +19,8 @@
     "url": "https://github.com/FE-star/exercise2/issues"
   },
   "homepage": "https://github.com/FE-star/exercise2#readme",
-  "devDependencies": {
-    "should": "^11.2.1"
+  "devDependencies": {},
+  "dependencies": {
+    "should": "^13.2.3"
   }
 }
